@@ -26,12 +26,14 @@ Hi 👋 I'm DINUJAYA THAMARA, currently studying Cybersecurity at SLIIT && Elect
 - ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 - ![SQLmap](https://img.shields.io/badge/-SQLmap-FFA500?style=flat-square)
 
+  ### Operating Systems
+- ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+-  ![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?style=flat-square&logo=red-hat&logoColor=white)
+-  ![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-339933?style=flat-square&logo=linux&logoColor=white)
+  
 ### Technologies
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-- ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
 - ![Windows Hacking](https://img.shields.io/badge/-Windows%20Hacking-0078D6?style=flat-square&logo=windows&logoColor=white)
-- ![Red Hat](https://img.shields.io/badge/-Red%20Hat-EE0000?style=flat-square&logo=red-hat&logoColor=white)
-- ![Parrot OS](https://img.shields.io/badge/-Parrot%20OS-339933?style=flat-square&logo=linux&logoColor=white)
 - ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) 
 - ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) 
 - ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
