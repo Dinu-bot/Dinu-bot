@@ -1,5 +1,5 @@
 ## 🌐 About Me
-Hi 👋 I'm DINUJAYA THAMARA, currently studying Cybersecurity at SLIIT && Electronics and Computer Science at  University of Kelaniya.
+Hi 👋 I'm DINUJAYA THAMARA.
 
 ## ⚡️ My Interests
 - **Penetration Testing** 🔍
