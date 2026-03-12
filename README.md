@@ -5,8 +5,9 @@ Hi 👋 I'm DINUJAYA THAMARA.
 - **Penetration Testing** 🔍
 - **Software Development** 💻
 - **Network Security** 🔐
+- **Cloud Security** ☁️🔒
 - **Hardware Development** 🛠️
-- **Gaming Optimization and Comparison** 🎮
+- **Game Optimization and Comparison** 🎮
 - **Electronics and Hardware Projects** 🔧
 
 ## 🛠️ Skills
